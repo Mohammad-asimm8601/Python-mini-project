@@ -1,1 +1,1 @@
-Welcome come to Mohammad Asim Python mini projects.
+Welcome to Mohammad Asim Python mini project.
